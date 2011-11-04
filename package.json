@@ -17,6 +17,15 @@
   "dependencies": {
     "hubot": "1.1.9",
     "hubot-scripts": "1.1.5",
-    "optparse": "1.0.1"
+    "optparse": "1.0.1",
+    "jsdom": "==0.2.0",
+    "xml2js": "0.1.x",
+    "wolfram": "0.1.1",
+    "soupselect": "0.2.0",
+    "htmlparser": "1.7.x",
+    "sprintf": "0.1.1",
+    "hashlib": "1.0.1",
+    "wwwdude": "0.1.0",
+    "pypi": "0.1.0"
   }
 }
