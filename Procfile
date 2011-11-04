@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n SausageFingers
+app: bin/hubot -a campfire -n Hubot
